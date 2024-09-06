@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.pdb
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.Form1.resources
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+C:\Users\Aluno\Desktop\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
